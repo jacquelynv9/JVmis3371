@@ -6,5 +6,10 @@
   Purpose: Create a medical registration form that will gather demographic data.
 
 -->
-
+<html lang="en">
+  <head> 
+      <link rel="stylesheet" href="jvhw1">
+      <title>Hogmay Medical</title>
+  </head>
+</html>
 
